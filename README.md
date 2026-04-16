@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hola, soy Andry
+🚀 Sobre mí
 
-<!--
-**Andriy2009hg/Andriy2009hg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante y desarrollador en formación, interesado en la tecnología y el desarrollo de software. Me gusta aprender nuevas herramientas y crear proyectos que solucionen problemas reales.
 
-Here are some ideas to get you started:
+💻 Tecnologías y herramientas
+🔹 Lenguajes: C#, SQL, Java (básico)
+🔹 Desarrollo: .NET, Windows Forms
+🔹 Base de datos: SQL Server
+🔹 Herramientas: Git, Visual Studio
+📚 Actualmente aprendiendo
+Desarrollo web
+Mejores prácticas de programación
+Bases de datos avanzadas
+📈 Mis objetivos
+Mejorar mis habilidades como programador
+Crear proyectos más completos
+Conseguir experiencia en desarrollo de software
+📂 Proyectos destacados
+🛒 Sistema de ventas
+💊 Sistema de farmacia
+📊 Aplicaciones con base de datos
+📫 Contacto
+✉️ Email: [tu correo]
+💼 GitHub: https://github.com/Andriy2009hg
+⚡ Frase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Nunca dejes de aprender, la tecnología avanza cada día."
